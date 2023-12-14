@@ -1,0 +1,5 @@
+data/LM75B.lib.i
+data/main.cpp.i
+data/C12832.lib.i
+data/mbed.bld.i
+data/C12832_lcd.lib.i
